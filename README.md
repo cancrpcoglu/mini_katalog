@@ -1,4 +1,3 @@
-# mini_katalog
 
 # Mini Katalog Uygulaması
 
